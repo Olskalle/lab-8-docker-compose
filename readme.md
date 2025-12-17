@@ -32,6 +32,9 @@
 
 ## Дополнительное задание
 После создания эндпоинтов метрик:
+
 ![Pasted image 20251208005252.png](attachments/Pasted%20image%2020251208005252.png)
+
 Добавим панель на дашборд:
+
 ![Pasted image 20251208020433.png](attachments/Pasted%20image%2020251208020433.png)
